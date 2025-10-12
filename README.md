@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+  https://www.postman.com/gayaresthirdy/thirdy-gayares/collection/kkaphaj/ruby-on-rails?action=share&creator=24626304
